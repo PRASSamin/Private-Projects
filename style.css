@@ -1,0 +1,10 @@
+@import url('https://fonts.cdnfonts.com/css/jolly-lodger');
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+* {
+    color: #ffffff;
+    font-family: 'Jolly Lodger', sans-serif;
+}
